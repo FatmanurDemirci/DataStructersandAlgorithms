@@ -3,6 +3,16 @@ Binary Tree Search Project
 
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
+Binary Search Tree (İkili Ağaç Yapısı) node'lardan oluşan , her node'un 2 adet child node'a sahip olduğu veri yapısıdır. Peki nedir bu node kavramı ?
+
+Node, bir veri yapısının en temel birimidir. Nodelar veri içerebilir ve birbirleri ile bağlantılıdır.
+
+Bu algoritmada en üstte bulunan node'a root adı verilir.
+
+Root değerinden küçük değere sahip olan node'lar root'un sol tarafına yerleşir.
+
+Root değerinden büyük değere sahip olan node'lar root'un sağ tarafına yerleşir.
+
                          7
                       /     \
                       5       8
