@@ -1,1 +1,1 @@
-# Inserting-Sort-Projesi
+# Insertion-Sort-Projesi
